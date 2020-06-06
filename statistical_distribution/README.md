@@ -47,4 +47,4 @@ This project is licensed under the MIT License - see the [license.txt](license.t
 
 ## Acknowledgments
 
-* AWS Machine Learning Foundation Course - Udacity
+* [AWS Machine Learning Foundation Course - Udacity](https://www.udacity.com/course/aws-machine-learning-foundations--ud090)

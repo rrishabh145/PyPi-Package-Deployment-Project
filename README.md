@@ -1,6 +1,6 @@
 # PyPi-Package-Deployment-Project
 
-A python project to create python package which calculates Gaussian and Binomial distributions. This is the first project on how to create package and upload on PyPi (implementation of that is given below under the heading **How to create and upload a package to PyPi**).
+A python project to create python package which calculates Gaussian and Binomial distributions. This is the first project on how to create package and upload on PyPi (implementation of that is given below under the heading [**How to create and upload a package to PyPi**](https://github.com/rrishabh145/PyPi-Package-Deployment-Project/blob/master/PROJECT_README.md#how-to-create-and-upload-package-to-pypi)).
 
 Link to the PyPi package link: [pypi.org/project/statistical-distribution/1.0/](https://pypi.org/project/statistical-distribution/1.0/)
 
@@ -79,13 +79,13 @@ $ pip install --upgrade .
 ```
 Note that if you change the code in the project folder after pip installing the package, Python will not know about the changes. You'll need to run above mentioned command everytime you make changes to the package files.
 
-**----------------------------------------------------------------------------------------------------**
+**-----------------------------------------------------------------------------------------------------------------**
 
 # How to create and upload Package to PyPi
 
 This section explains how you can create and upload your own package on PyPi so that anyone can pip install the package.
 
-### Prerequisites
+## Prerequisites
 
 Twine  is needed for uploading the code to PyPi if one wants to try doing it.
 
@@ -120,14 +120,14 @@ To upload your package to PyPi, you first need to create an account on their sit
 
 ```
 $ twine upload dist/*
-$ pip install numerical_distributions
+$ pip install statistical_distribution
 ```
 
 Remember to use a unique name for your package as it cannot be similar to any other package on PyPi site.
 
 ### Test the deployment
 
-Check the **Installing** section of *PyPi-Package-Deployment-Project*.
+Check the [**Installing**](https://github.com/rrishabh145/PyPi-Package-Deployment-Project/blob/master/PROJECT_README.md#installing) section under the heading *PyPi-Package-Deployment-Project*.
 
 ## License
 
