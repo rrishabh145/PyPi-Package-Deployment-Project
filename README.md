@@ -1,6 +1,6 @@
 # PyPi-Package-Deployment-Project
 
-A python project to create python package which calculates Gaussian and Binomial distributions. This is the first project on how to create package and upload on PyPi (implementation of that is given below under the heading [**How to create and upload a package to PyPi**](https://github.com/rrishabh145/PyPi-Package-Deployment-Project/blob/master/PROJECT_README.md#how-to-create-and-upload-package-to-pypi)).
+A python project to create python package which calculates Gaussian and Binomial distributions. This is the first project on how to create package and upload on PyPi (implementation of that is given below under the heading [**How to create and upload a package to PyPi**](https://github.com/rrishabh145/PyPi-Package-Deployment-Project/blob/master/README.md#how-to-create-and-upload-package-to-pypi)).
 
 Link to the PyPi package link: [pypi.org/project/statistical-distribution/1.0/](https://pypi.org/project/statistical-distribution/1.0/)
 
@@ -127,7 +127,7 @@ Remember to use a unique name for your package as it cannot be similar to any ot
 
 ### Test the deployment
 
-Check the [**Installing**](https://github.com/rrishabh145/PyPi-Package-Deployment-Project/blob/master/PROJECT_README.md#installing) section under the heading *PyPi-Package-Deployment-Project*.
+Check the [**Installing**](https://github.com/rrishabh145/PyPi-Package-Deployment-Project/blob/master/README.md#installing) section under the heading *PyPi-Package-Deployment-Project*.
 
 ## License
 
